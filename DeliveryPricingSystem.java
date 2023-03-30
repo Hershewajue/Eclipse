@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class PizzaDeliveryPayment {
+public class DeliveryPricingSystem {
 
 	public static void main(String[] args) {
 		try (// TODO Auto-generated method stub
